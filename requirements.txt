@@ -9,3 +9,5 @@ Pillow
 imbalanced-learn
 xgboost
 shap
+scikit-learn
+scipy
