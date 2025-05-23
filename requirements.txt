@@ -1,9 +1,10 @@
 streamlit
-shap
-scikit-learn
-xgboost
-matplotlib
-pandas
-numpy
+base64io
 Pillow
+requests
+pandas
 plotly
+shap
+numpy
+matplotlib
+joblib
