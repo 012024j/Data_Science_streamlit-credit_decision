@@ -1,11 +1,10 @@
 streamlit
-base64io
-Pillow
-requests
 pandas
-plotly
-shap
 numpy
 matplotlib
+plotly
 joblib
-imblearn
+requests
+Pillow
+imbalanced-learn
+xgboost
